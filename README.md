@@ -77,7 +77,7 @@ Helper functions:
 
 ```
 Chess/
-├── main.py
+├── chess.py
 ├── README.md
 └── pieces/
     ├── wP.png  wR.png  wN.png  wB.png  wQ.png  wK.png
